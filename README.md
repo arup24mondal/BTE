@@ -17,3 +17,6 @@
 15. [Verifiable Outsourced BTE with Silent Setup: Achieving Constant-Rate Batched Delegation](https://github.com/arup24mondal/BTE/blob/main/papers/2026-1558.pdf)
 16. [Labeled Multi-Key Batched IBE](https://github.com/arup24mondal/BTE/blob/main/papers/2026-1452.pdf)
 17. [Traceable Threshold Batch Encryption with Applications to Enhancing Mempool Privacy](https://github.com/arup24mondal/BTE/blob/main/papers/3779208.3805977.pdf)
+[Silent Threshold Cryptography from Pairings: Expressive Policies in the Plain Model](https://github.com/arup24mondal/BTE/blob/main/papers/2025-1547.pdf)
+[DecryptChain: A Permissionless Proof-of-Work Encrypted Mempool](https://github.com/arup24mondal/BTE/blob/main/papers/2026-1195.pdf)
+[Threshold Encryption with Silent Setup](https://github.com/arup24mondal/BTE/blob/main/papers/2024-263.pdf)
