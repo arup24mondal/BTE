@@ -1,4 +1,18 @@
 # BTE Paper List
 
 1. [Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses](https://github.com/arup24mondal/BTE/blob/main/papers/2024-669.pdf)
-2. 
+2. [Constant-Cost Batched Partial Decryption in Threshold Encryption](https://github.com/arup24mondal/BTE/blob/main/papers/2024-762.pdf)
+3. [Practical Mempool Privacy via One-time Setup Batched Threshold Encryption](https://github.com/arup24mondal/BTE/blob/main/papers/2024-1516.pdf)
+4. [BEAT-MEV: Epochless Approach to Batched Threshold Encryption for MEV Prevention](https://github.com/arup24mondal/BTE/blob/main/papers/2024-1533.pdf)
+5. [Efficiently-Thresholdizable Batched Identity Based Encryption, with Applications](https://github.com/arup24mondal/BTE/blob/main/papers/2024-1575.pdf)
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+15. []()
+16. []()
