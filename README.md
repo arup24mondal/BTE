@@ -20,3 +20,4 @@
 18. [Silent Threshold Cryptography from Pairings: Expressive Policies in the Plain Model](https://github.com/arup24mondal/BTE/blob/main/papers/2025-1547.pdf)
 19. [DecryptChain: A Permissionless Proof-of-Work Encrypted Mempool](https://github.com/arup24mondal/BTE/blob/main/papers/2026-1195.pdf)
 20. [Threshold Encryption with Silent Setup](https://github.com/arup24mondal/BTE/blob/main/papers/2024-263.pdf)
+21. [Lighthouse: Single-Server Secure Aggregation with O(1) Server-Committee Communication at Scale](https://github.com/arup24mondal/BTE/blob/main/papers/2026-346.pdf)
